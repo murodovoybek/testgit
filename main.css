@@ -1,0 +1,61 @@
+.bosh{
+    border: 1px solid red;
+    background-color: aqua;
+    border-radius: 15px;
+    text-align: center;
+}
+em{
+    color: red;
+}
+h3{
+    color: green;
+}
+.hay{
+    background-color: yellow;
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+.if{
+    background-color: black;
+    text-align: center;
+}
+.inp{
+    width: 1200px;
+    height: 35px;
+}
+.oz{
+    color: green;
+    font-size: 25px;
+}
+.jj{
+    background-color: aqua;
+    width: 150px;
+}
+tr , th , td{
+    border: px solid white;
+    width: 1500px;
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+}
+.th1{
+    background-color: green;
+}
+.th2{
+    background-color: blue;
+}
+.td1{
+    background-color: red;
+}
+.td2{
+    background-color: black;
+}
+.td3{
+    background-color: red;
+}
+.td4{
+    background-color: black;
+}
